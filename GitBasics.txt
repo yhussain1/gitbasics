@@ -1,3 +1,13 @@
 Oranges
 Banana
 Apples
+
+git
+
+cd "filepath"
+git init
+git remote add origin "repository link"
+git add .
+git commit -a -m "comment"
+
+git push --set-upstream origin master
